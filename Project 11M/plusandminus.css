@@ -1,0 +1,105 @@
+body{
+    background-image: url(1646931731_67-sportishka-com-p-prozrachnost-ozera-baikal-turizm-krasivo-f-73.jpg);
+    background-attachment: fixed;
+}
+
+
+
+.main{
+    margin: 0 auto;
+    height: 9770px;
+    width: 900px;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
+
+
+
+.zaglM{
+    padding-top: 5px;
+    margin: 0 auto;
+    font-size: 35px;
+    font-family: sans-serif;
+    margin: 0 auto;
+    text-align: center;
+    width: 650px;
+    
+}
+
+
+
+.krinfo{
+    font-size: 25px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+
+.person1{
+    width: 800px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.name1{
+    font-size: 20px;
+}
+
+.img1{
+    text-align: center;
+}
+
+.img11{
+    width: 650px;
+    height: 300%;
+}
+
+.oglplu1{
+    padding-left: 50px;
+}
+
+.spiplu1{
+    padding-left: 80px;
+    font-size: 20px;
+}
+
+
+
+.img22{
+    width: 500px;
+    height: 500px;
+}
+
+
+
+.img33{
+    height: 500px;
+    width: 550px;
+}
+
+
+
+.img44{
+    height: 600px;
+    width: 450px;
+}
+
+
+
+.img55{
+    height: 500xp;
+    width: 300px;
+}
+
+
+
+.bottom{
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+    font-weight: bold;
+    color: grey;
+}

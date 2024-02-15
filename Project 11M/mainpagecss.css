@@ -1,0 +1,290 @@
+
+
+body{
+    background-image: url(1646931731_67-sportishka-com-p-prozrachnost-ozera-baikal-turizm-krasivo-f-73.jpg);
+    background-attachment: fixed;
+}
+
+.main{
+    margin: 0 auto;
+    height: 5700px;
+    width: 900px;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
+
+.russPO{
+    width: 700px;
+    margin: 0 auto;
+}
+
+
+.zagolovok{
+    padding-top: 5px;
+    margin: 0 auto;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+.info{
+    margin: 0 auto;
+    width: 700px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.abz1{
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz2{
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+
+.whatisPO{
+    width: 700px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+
+.zagolovok1{
+    margin: 0 auto;
+    font-size: 25px;
+    
+}
+
+
+.abz11{
+    padding-top: 10px;
+    font-size: 25px;
+    
+}
+
+
+.img11{
+    width: 700px;
+    height: 300px;
+    text-align: center;
+}
+
+.img111{
+    padding-top: 20px;
+    width: 600px;
+    height: 300px;
+    
+}
+
+
+
+
+.rznPO{
+    width: 700px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.zagolovok2{
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz21{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+.abz22{
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz23{
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+
+
+.typesofPO{
+    width: 700px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+
+.zagolovok3{
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz31{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.table31{
+    padding-left: 80px;
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.table32{
+    padding-left: 80px;
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.table33{
+    padding-left: 80px;
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+.abz32{
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+
+
+.sprosPO{
+    width: 700px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.zagolovok4{
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz41{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz42{
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz43{
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz44{
+    width: 700px;
+    height: 350px;
+    text-align: center;
+}
+
+.img444{
+    padding-top: 20px;
+    width: 600px;
+    height: 350px;
+}
+
+.abz45{
+    padding-top: 50px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+
+
+
+.premPO{
+    width: 700px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.zagolovok5{
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz51{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+
+.spisokPO{
+    width: 700px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.zagolovok6{
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz61{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz62{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz63{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.abz64{
+    padding-top: 10px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(0, 81, 255);
+}
+
+.bottom{
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+    color: grey;
+}

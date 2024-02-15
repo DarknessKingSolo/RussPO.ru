@@ -1,0 +1,131 @@
+body{
+    background-image: url(1646931731_67-sportishka-com-p-prozrachnost-ozera-baikal-turizm-krasivo-f-73.jpg);
+    background-attachment: fixed;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(0, 81, 255);
+}
+
+
+
+.main{
+    margin: 20px auto;
+    height: 2550px;
+    width: 1100px;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
+
+.zagl{
+    padding-top: 5px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+
+
+.zagl1{
+    padding-left: 100px;
+}
+
+.info1{
+    font-size: 25px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.img1{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img11{
+    width: 700px;
+    height: 350px;
+}
+
+.vsbattle1{
+    font-size: 20px;
+    width: 800px;
+    margin: 0 auto;
+    color: aqua;
+    margin-top: 20px;
+}
+
+
+.zagl2{
+    margin-top: 70px;
+    padding-left: 100px;
+}
+
+.info2{
+    font-size: 25px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.img2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img22{
+    width: 700px;
+    height: 350px;
+}
+
+.vsbattle2{
+    font-size: 20px;
+    width: 800px;
+    margin: 0 auto;
+    color: aqua;
+    margin-top: 20px;
+}
+
+
+
+.zagl3{
+    margin-top: 70px;
+    padding-left: 100px;
+}
+
+.info3{
+    font-size: 25px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.img3{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.img33{
+    width: 700px;
+    height: 350px;
+}
+
+.vsbattle3{
+    font-size: 20px;
+    width: 800px;
+    margin: 0 auto;
+    color: aqua;
+    margin-top: 20px;
+}
+
+
+
+.bottom{
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+    padding-top: 40px;
+    font-weight: bold;
+    color: grey;
+}
